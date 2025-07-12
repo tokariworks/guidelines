@@ -1,4 +1,4 @@
-# Writing Guidelines
+# Guidelines
 
 This repository defines the narrative principles and storytelling methodology adopted by Tokari Works in the creation of visual novels.
 
